@@ -3,8 +3,8 @@
 Welcome to the **Data Jobs Dashboard**, an interactive analytics project designed to help data professionals, students, and recruiters explore the evolving world of data careers. This dashboard reveals key insights into **salary trends**, **job demand**, and **career expectations** across various data-related roles.
 
 ---
-![WhatsApp Image 2025-11-10 at 10 23 53_ba0b48b0](https://github.com/user-attachments/assets/8135d9b8-cae6-49c4-a411-c4ea32e14574)
-![WhatsApp Image 2025-11-10 at 10 23 56_2d4d4d69](https://github.com/user-attachments/assets/dfb9fb48-e01c-4ff4-8b85-6871f0883abb)
+![WhatsApp Image 2025-11-19 at 20 02 37_e928abdd](https://github.com/user-attachments/assets/952c4c59-2f29-4529-9358-f2b256587f5e)
+![WhatsApp Image 2025-11-19 at 20 03 12_2416eb55](https://github.com/user-attachments/assets/f1406219-d6bb-4162-b5a8-99b334ce2fc8)
 ---
 ## 🎯 Project Goals
 
